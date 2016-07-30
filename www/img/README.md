@@ -1,0 +1,1 @@
+# small images like UI controls and other interface elements.
