@@ -1,0 +1,21 @@
+{
+    "name": "elcreator/phalcon-wing",
+    "description": "Phalcon-based framework",
+    "require": {
+        "hybridauth/hybridauth": "^2.4",
+        "stanislav-web/phalcon-uploader": "dev-master",
+        "gettext/gettext": "^3.5",
+        "phalcon/incubator": "dev-master",
+        "justinrainbow/json-schema": "^1.3",
+        "mailgun/mailgun-php": "^1.7.2",
+        "phalcon/devtools": "^2.0.9",
+        "leafo/scssphp": "^0.6.5"
+    },
+    "authors": [
+        {
+            "name": "Artur Kyryliuk",
+            "email": "mail@artur.work"
+        }
+    ],
+    "license": "GPL-3.0"
+}
