@@ -1,15 +1,13 @@
 {
     "name": "elcreator/phalcon-wing",
-    "description": "Phalcon-based framework",
+    "description": "Phalcon-based app development skeleton",
     "require": {
-        "hybridauth/hybridauth": "^2.4",
+        "hybridauth/hybridauth": "dev-master",
         "stanislav-web/phalcon-uploader": "dev-master",
-        "gettext/gettext": "^3.5",
-        "phalcon/incubator": "dev-master",
-        "justinrainbow/json-schema": "^1.3",
-        "mailgun/mailgun-php": "^1.7.2",
-        "phalcon/devtools": "^2.0.9",
-        "leafo/scssphp": "^0.6.5"
+        "gettext/gettext": "dev-master",
+        "justinrainbow/json-schema": "dev-master",
+        "mailgun/mailgun-php": "dev-master",
+        "phalcon/devtools": "dev-master"
     },
     "authors": [
         {

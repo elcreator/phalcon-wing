@@ -3,3 +3,4 @@ config
 logs
 tmp
 vendor
+node_modules
