@@ -1,0 +1,1 @@
+php cli/index.php generate %*
