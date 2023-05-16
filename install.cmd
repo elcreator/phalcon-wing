@@ -1,2 +1,1 @@
 composer install
-npm install
